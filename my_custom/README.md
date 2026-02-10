@@ -1,9 +1,5 @@
-完全に自分用のEngine.iniとDeviceProfiles.iniです。
+完全に自分用のDeviceProfiles.iniです。（Engine.iniは記述の多くが無効化されるためDeviceProfilesに統合）
 
 M1Max 32GBモデルで重過ぎずショボくなりすぎずのいい感じになるようになってます。
 
 ちょいちょい弄っては自分のバックアップ用に更新するかもしれません。
-
-無効のCVarは無視されるので現状使えないMetal関係のものも何となく含めています。そのうちゲーム側が対応してくれるかも……。
-
-Engine.iniとDeviceProfiles.iniで重複する部分がありますがどうしても絶対この値にしたいよ！という強い気持ちの表れです。
