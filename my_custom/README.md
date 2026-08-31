@@ -8,6 +8,7 @@ M1Max 32GBモデルで重過ぎずショボくなりすぎずのいい感じに�
 
 
 for EN
+
 This is a DeviceProfiles.ini file entirely for my own use. (Many of the settings in Engine.ini are disabled, so they've been integrated into DeviceProfiles.)
 
 It's set up to be just right for the M1 Max 32GB model—not too heavy, not too bad image quality.
